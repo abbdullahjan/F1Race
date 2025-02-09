@@ -25,7 +25,6 @@ A fast-paced **F1 racing game** developed in **C++** using **SFML**, built in ju
 - **Simple yet engaging mechanics**
 - **No AI assistance—pure logic and problem-solving!**
 
-## 📸 Screenshots
 
 
 ## 📥 Installation & Running the Game
