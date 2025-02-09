@@ -15,6 +15,9 @@ A fast-paced **F1 racing game** developed in **C++** using **SFML**, built in ju
 - Discovered **SFML** and learned its integration into C++.
 - Adapted an old **Udemy course** using **Visual C++ Express 2010** and **SFML 2.0**.
 - Overcame compatibility issues with **VS Code** and the latest **GCC compiler**.
+- The Udemy course I followed, Used old SFML 2.0 version and SFML has changed and 3.0 is different now, which I discovered after coding the game
+- So latest compilers wont compile the game, for anyone needing to build the code, must use Viusal C++ Express 2010 and SFML 2.0
+- If want to compile in VS code, use GCC before version 9
 
 ## 🛠️ Features
 - **Classic F1-style racing gameplay**
@@ -27,8 +30,7 @@ A fast-paced **F1 racing game** developed in **C++** using **SFML**, built in ju
 
 ## 📥 Installation & Running the Game
 1. **Download** the game files from the repository.
-2. Ensure **SFML 2.0** is installed (or use the provided binaries).
-3. Run the **.exe file** (Windows) or build from source using:
+2. Run the **.exe file** (Windows) 
    ```
    Run .exe file From Game Folder
    Download necessary .dll files(both x86 and x64 )
