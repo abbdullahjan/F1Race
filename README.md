@@ -30,11 +30,11 @@ A fast-paced **F1 racing game** developed in **C++** using **SFML**, built in ju
 2. Ensure **SFML 2.0** is installed (or use the provided binaries).
 3. Run the **.exe file** (Windows) or build from source using:
    ```
-  - Run .exe file From Game Folder
-  - Download necessary .dll files(both x86 and x64 )
-  - Copy .dll for x86 in C:\Windows\SysWOW64
-  - Copy .dll for (x86_64) OR (64bit) in C:\Windows\System32
-  - run .exe file
+   Run .exe file From Game Folder
+   Download necessary .dll files(both x86 and x64 )
+   Copy .dll for x86 in C:\Windows\SysWOW64
+   Copy .dll for (x86_64) OR (64bit) in C:\Windows\System32
+   run .exe file
    ```
 
 ## 🔗 Connect with Me
